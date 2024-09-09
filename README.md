@@ -34,9 +34,12 @@ Convenient.
 
 # Why use NumPy for machine learning, Deep Learning, and Data Science?
 
+![image](https://github.com/user-attachments/assets/e3262114-e505-4fc6-8dc0-da4fef05a68f)
 
 
 To solve computer vision and MRI, etc. So for that machine learning model want to use images, but the ML model can’t read image directly. So need to convert image into numeric form and then fit into NumPy array. which is the best way to give data to the ML model.
+
+![image](https://github.com/user-attachments/assets/8c405db7-c600-41ac-8815-eb12f0047116)
 
 
 Machine Learning model also used to solve business problems. But we can’t provide ‘.tsv’, ‘.csv’ files data to the ML model, So for that also need to use NumPy array.
