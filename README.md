@@ -1,4 +1,4 @@
-# PythonNumPyTutorial
+# Python NumPy Tutorial
 
 # What is NumPy?
 
