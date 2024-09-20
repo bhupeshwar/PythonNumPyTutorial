@@ -1,4 +1,4 @@
-# Python NumPy Tutorial
+# Python NumPy Tutorial By Bhupeshwar Pathania
 
 # What is NumPy?
 
